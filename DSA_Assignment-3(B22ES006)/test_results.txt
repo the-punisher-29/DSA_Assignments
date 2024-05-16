@@ -1,0 +1,11 @@
+passed, test_add_and_delete_contact
+passed, test_add_and_fetch_contact
+passed, test_add_delete_fetch_combination
+passed, test_add_multiple_contacts
+passed, test_delete_by_middle_name
+passed, test_delete_multiple_contacts
+passed, test_delete_nonexistent_contact
+passed, test_fetch_contacts_with_multiple_words
+passed, test_fetch_nonexistent_contact
+passed, test_delete_multiple_contacts
+passed, test_delete_multiple_contacts
